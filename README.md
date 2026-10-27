@@ -40,6 +40,10 @@ The highest point is found numerically by locating the maximum value in the arra
 
 The numerical result agrees with the theoretical solution, within the precision of the simulation.
 
+## Simulation Output
+
+![Projectile motion trajectory](trajectory.png)
+
 ## Features
 
 - Calculates the horizontal and vertical components of the initial velocity.
